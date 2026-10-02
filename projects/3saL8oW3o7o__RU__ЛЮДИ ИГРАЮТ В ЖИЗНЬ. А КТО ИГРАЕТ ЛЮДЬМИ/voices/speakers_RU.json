@@ -1,0 +1,26 @@
+{
+  "project_id": "3saL8oW3o7o",
+  "source_language": "ru",
+  "speakers": {
+    "SPEAKER_00": {
+      "language": "ru",
+      "segments": 4,
+      "diarized_speech_duration_s": 8.437,
+      "voice_RU_16k": "/kaggle/working/3saL8oW3o7o/voices/SPEAKER_00_voice_RU_16k.wav",
+      "voice_RU_24k": "/kaggle/working/3saL8oW3o7o/voices/SPEAKER_00_voice_RU_24k.wav",
+      "voice_clone_status": "prompt_ready",
+      "clone_prompt_RU_16k": "/kaggle/working/3saL8oW3o7o/voices/SPEAKER_00_clone_prompt_RU_16k.wav",
+      "clone_prompt_RU_24k": "/kaggle/working/3saL8oW3o7o/voices/SPEAKER_00_clone_prompt_RU_24k.wav"
+    },
+    "SPEAKER_01": {
+      "language": "ru",
+      "segments": 32,
+      "diarized_speech_duration_s": 60.362,
+      "voice_RU_16k": "/kaggle/working/3saL8oW3o7o/voices/SPEAKER_01_voice_RU_16k.wav",
+      "voice_RU_24k": "/kaggle/working/3saL8oW3o7o/voices/SPEAKER_01_voice_RU_24k.wav",
+      "voice_clone_status": "prompt_ready",
+      "clone_prompt_RU_16k": "/kaggle/working/3saL8oW3o7o/voices/SPEAKER_01_clone_prompt_RU_16k.wav",
+      "clone_prompt_RU_24k": "/kaggle/working/3saL8oW3o7o/voices/SPEAKER_01_clone_prompt_RU_24k.wav"
+    }
+  }
+}

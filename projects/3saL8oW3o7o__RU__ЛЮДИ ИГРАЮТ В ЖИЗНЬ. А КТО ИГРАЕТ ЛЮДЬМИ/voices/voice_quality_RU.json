@@ -1,0 +1,32 @@
+{
+  "project_id": "3saL8oW3o7o",
+  "language": "ru",
+  "speakers": {
+    "SPEAKER_00": {
+      "sample_rate": 16000,
+      "duration_s": 8.738,
+      "threshold_dbfs": -27.76,
+      "active_speech_s_est": 5.341,
+      "active_ratio_pct": 61.12,
+      "peak_dbfs": -3.94,
+      "overall_rms_dbfs": -17.19,
+      "speech_rms_dbfs": -15.08,
+      "clipping_samples": 0,
+      "clipping_ratio_pct": 0.0,
+      "longest_silence_s_est": 0.45
+    },
+    "SPEAKER_01": {
+      "sample_rate": 16000,
+      "duration_s": 63.462,
+      "threshold_dbfs": -30.59,
+      "active_speech_s_est": 40.854,
+      "active_ratio_pct": 64.38,
+      "peak_dbfs": -2.34,
+      "overall_rms_dbfs": -18.87,
+      "speech_rms_dbfs": -16.97,
+      "clipping_samples": 0,
+      "clipping_ratio_pct": 0.0,
+      "longest_silence_s_est": 1.05
+    }
+  }
+}

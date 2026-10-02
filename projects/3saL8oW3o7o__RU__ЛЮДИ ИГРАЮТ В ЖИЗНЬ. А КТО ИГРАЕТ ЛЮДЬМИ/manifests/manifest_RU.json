@@ -1,0 +1,19 @@
+{
+  "project_id": "3saL8oW3o7o",
+  "source": {
+    "platform": "youtube",
+    "video_id": "3saL8oW3o7o",
+    "url": "https://www.youtube.com/shorts/3saL8oW3o7o",
+    "original_title": "ЛЮДИ ИГРАЮТ В ЖИЗНЬ. А КТО ИГРАЕТ ЛЮДЬМИ? [#shorts]",
+    "language": "ru",
+    "video_file": "/kaggle/input/models/zeljkozic/ljudi-igraju-u-zivot-a-ko-igra-ljudima-shorts-mp4/other/default/1/LJUDI_IGRAJU_U_ZIVOT_A_KO_IGRA_LJUDIMA_shorts.mp4.mp4",
+    "video_sha256": "9c1023d7434544ba0bd87940a1f9119a26716186f23a5844bbc6e127df835559",
+    "video_duration_s": 99.574
+  },
+  "artifacts": {
+    "source_audio_ru": "/kaggle/working/3saL8oW3o7o/source_RU_audio.wav",
+    "audio_duration_s": 99.573
+  },
+  "status": "source_verified",
+  "created_utc": "2026-10-02T22:09:27.074732+00:00"
+}
