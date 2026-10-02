@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets / local config
+.env
+.env.*
+!.env.example
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Large media - keep outside Git
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.webm
+*.wav
+*.flac
+*.mp3
+*.aac
+*.ogg
+*.m4a
+
+# Large model / cache files
+*.bin
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+
+# Local project media/output
+projects/**/media/
+audio/
+video/
+models/
+cache/
