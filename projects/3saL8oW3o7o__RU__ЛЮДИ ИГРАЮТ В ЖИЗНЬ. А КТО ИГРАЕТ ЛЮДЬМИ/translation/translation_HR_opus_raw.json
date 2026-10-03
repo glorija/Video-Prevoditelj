@@ -1,0 +1,24 @@
+{
+  "project_id": "3saL8oW3o7o",
+  "source_language": "ru",
+  "target_language": "hr",
+  "translation_model": "Helsinki-NLP/opus-mt-sla-sla",
+  "translation_method": "OPUS-MT sentence translation from verified diarized turns",
+  "source_transcription": "transcription_RU_diarized.json",
+  "turns": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.0,
+      "end": 9.48,
+      "source_text_ru": "Как получилось так, что система подцепила мужчин на крючок власти и сделала своими рабами? Для чего мужчинам власть?",
+      "translated_text_hr": "Kako je sustav ugasio muškarce i pretvorio ih u robove? Zašto muškarci imaju moć?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 9.74,
+      "end": 97.78,
+      "source_text_ru": "Ну рабами своими она сделала не только мужчин, но и женщин. А власть… Да по факту ни для чего. Это всё игры самой системы, ведь люди играют в жизни. Они играют в жизнь, они играют в религию, они играют в веру. Люди вообще играют во всё, потому что система ими играет. Человек прекращает играть лишь тогда, когда обретает жизнь, или когда становится действительно на путь духовный. Вот тогда он начинает жить. А так это как и у зверей. Ведь у зверей что главное? Кто главный? Вот за это они и борются. Самцы за то, чтобы стать альфа-самцом, самки, чтобы стать альфа-самкой, и отвоевать себе, скажем так, кусок пожирней. Да и всё. На эту минуту. Ведь звери не думают о завтрашнем дне, у них его нет. Так же, как и у тех, кто подчинился сатане. У них нет завтрашнего дня. Так же, как у дикой собаки. А как получилось? Ну получилось так, что люди за это не думают. И забыли, кто они на самом деле. А система взяла власть.",
+      "translated_text_hr": "Pa, ona je učinila svoje robove ne samo muškarcima, već i ženama. A moć... U stvari, nema svrhe. To su sve igre sustava, jer ljudi igraju u životu. Oni igraju život, oni igraju religiju, oni igraju vjeru. Ljudi igraju sve jer ih sustav igra. Čovjek se prestaje igrati samo kad dobije život ili kad se stvarno nađe na duhovnom putu. Onda počinje da živi. To je kao i kod zvijeri. Što je najvažnije od zvijeri? Tko je glavni? To je ono zbog čega se bore. Muškarci da bi postali Alfa mužjaci, ženke, da bi postali alfa-ženka, i da bi se vratili sebi, recimo, komad masti. To je sve. Za sada. Zvijeri ne razmišljaju o sutrašnjem danu, nemaju ga. Kao i oni koji su se pokorili Sotoni. Nemaju sutrašnji dan. Kao i kod divljeg psa. Kako je to uspjelo? Ispostavilo se da ljudi ne misle o tome. I zaboravili su tko su oni zapravo. A sustav je preuzeo kontrolu."
+    }
+  ]
+}
