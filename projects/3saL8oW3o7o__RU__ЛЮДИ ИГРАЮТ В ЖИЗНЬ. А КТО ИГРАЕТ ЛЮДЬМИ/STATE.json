@@ -1,0 +1,30 @@
+{
+  "project_id": "3saL8oW3o7o",
+  "branch": "project/3saL8oW3o7o",
+  "last_verified_git_commit": "5a8e2ac",
+  "source_verified": true,
+  "diarization_completed": true,
+  "speaker_analysis_completed": true,
+  "voice_prompts_created": true,
+  "github_sync_completed": true,
+  "next_step": "transcription",
+  "completed_artifacts": [
+    "manifests/manifest_RU.json",
+    "diarization/diarization_RU.json",
+    "voices/speakers_RU.json",
+    "voices/voice_quality_RU.json",
+    "README.md"
+  ],
+  "external_artifacts": [
+    "source_RU_audio.wav",
+    "speaker voice WAV files",
+    "input MP4",
+    "KlonAudio environment",
+    "model/cache files"
+  ],
+  "secrets_present_but_not_stored": [
+    "GITHUB_TOKEN",
+    "fuck_token",
+    "hf_token"
+  ]
+}
