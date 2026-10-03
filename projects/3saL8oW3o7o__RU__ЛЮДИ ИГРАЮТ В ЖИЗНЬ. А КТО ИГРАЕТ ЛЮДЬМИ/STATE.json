@@ -26,5 +26,15 @@
     "GITHUB_TOKEN",
     "fuck_token",
     "hf_token"
-  ]
+  ],
+  "transcription": {
+    "status": "completed_raw_whisper",
+    "model": "openai-whisper-large-v3",
+    "package": "openai-whisper==20250625",
+    "language": "ru",
+    "segments": 27,
+    "artifact": "transcription/transcription_RU_whisper_large_v3.json",
+    "next_step": "align_transcription_with_diarization"
+  },
+  "last_verified_step": "raw_russian_transcription"
 }
